@@ -54,7 +54,7 @@ El sistema permite mostrar productos en línea organizados por categorías y ofr
 
 5. Iniciar el servidor:
 
-   ```bash
+   ```
    php artisan serve
    ```
 
@@ -73,5 +73,3 @@ o abre un **issue** en este repositorio.
 ## 👨‍💻 Autor
 
 Desarrollado por **Dzhonx** – Proyecto de floristería web en Laravel 10.
-
-```
