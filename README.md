@@ -48,7 +48,7 @@ El sistema permite mostrar productos en línea organizados por categorías y ofr
 
 4. Ejecutar migraciones y seeders:
 
-   ```bash
+   ```
    php artisan migrate --seed
    ```
 
